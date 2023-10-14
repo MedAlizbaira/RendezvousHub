@@ -5,7 +5,9 @@ Optimize your appointment management with RendezVousPro. Create, modify, and tra
 ## Video Sensor
 
 ### Demo
-Check out our application in action: [RendezVous Hub Demo](https://rendezvous-hub.vercel.app/)
+Check out our application in action:
+cliquez Ici :👇
+ [RendezVous Hub Demo](https://rendezvous-hub.vercel.app/)
 
 ## Table of Contents
 
