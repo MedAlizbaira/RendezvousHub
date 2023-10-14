@@ -35,15 +35,14 @@ Launch the application with the following command:
     npm start
 Open your web browser and access the URL http://localhost:3000 to use the application.
 ## Contributions
-Nous sommes ouverts aux contributions de la communauté. Si vous souhaitez contribuer à ce projet, veuillez suivre ces étapes :
+We welcome contributions from the community. If you would like to contribute to this project, please follow these steps:
 
-Fork ce référentiel.
-Créez une branche pour votre fonctionnalité : git checkout -b ma-nouvelle-fonctionnalite
-Committez vos changements : git commit -m 'Ajout de ma nouvelle fonctionnalité'
-Poussez votre branche : git push origin ma-nouvelle-fonctionnalite
-Créez une demande de tirage (pull request) sur GitHub.
+Fork this repository.
+Create a branch for your feature: git checkout -b my-new-feature
+Commit your changes: git commit -m 'Add my new feature'
+Push your branch: git push origin my-new-feature
+Create a pull request on GitHub.
 ## Licence
-Ce projet est sous licence MIT. Consultez le fichier LICENSE pour plus de détails.
+This project is licensed under the MIT License. See the LICENSE file for more details.
 
-Si vous avez des questions ou des commentaires, n'hésitez pas à nous contacter à [MohamedAlizbaira@Gmail.com].
-
+If you have any questions or comments, feel free to contact us at [MohamedAlizbaira@Gmail.com].
