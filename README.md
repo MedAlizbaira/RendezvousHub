@@ -42,5 +42,5 @@ Créez une demande de tirage (pull request) sur GitHub.
 ## Licence
 Ce projet est sous licence MIT. Consultez le fichier LICENSE pour plus de détails.
 
-Si vous avez des questions ou des commentaires, n'hésitez pas à nous contacter à [MohamedAlizbaira@email.com].
+Si vous avez des questions ou des commentaires, n'hésitez pas à nous contacter à [MohamedAlizbaira@Gmail.com].
 
