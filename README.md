@@ -6,8 +6,8 @@ Optimize your appointment management with RendezVousPro. Create, modify, and tra
 
 ### Demo
 Check out our application in action: <br>
-cliquez Ici :👇 <br>
- [RendezVous Hub Demo](https://rendezvous-hub.vercel.app/)
+Click Here:👇 <br>
+[RendezVous Hub Demo](https://rendezvous-hub.vercel.app/)
 
 ## Table of Contents
 
@@ -22,6 +22,7 @@ cliquez Ici :👇 <br>
    Clone this repository to your computer using the following command:
    ```bash
    git clone https://github.com/MedAlizbaira/RendezvousHub.git
+
 2. **Navigate to the project directory:** 
    ```bash
    cd RendezVousPro
